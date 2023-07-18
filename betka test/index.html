@@ -9,7 +9,7 @@
         for (i = 0; i < z.length; i++) {
             elmnt = z[i];
             /*search for elements with a certain attribute:*/
-            file = elmnt.getAttribute("headerthing");
+            file = elmnt.getAttribute("hfthing");
             if (file) {
                 /*make an HTTP request using the attribute value as the file name:*/
                 xhttp = new XMLHttpRequest();
@@ -18,7 +18,7 @@
                         if (this.status == 200) { elmnt.innerHTML = this.responseText; }
                         if (this.status == 404) { elmnt.innerHTML = "Page not found."; }
                         /*remove the attribute, and call this function once more:*/
-                        elmnt.removeAttribute("headerthing");
+                        elmnt.removeAttribute("hfthing");
                         includeHTML();
                     }
                 }
@@ -39,11 +39,11 @@
 
 <body>
 
-    <div headerthing="./header.html"></div>
-    <div headerthing="./footer.html"></div>
+    <div hfthing="./header.html"></div>
+    <div hfthing="./footer.html"></div>
     
     njksgbfsjdvgjhsvdjshvdsj<br>
-    <div headerthing="./header.html"></div>
+    <div hfthing="./header.html"></div>
 
     <script>
         includeHTML();
