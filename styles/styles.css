@@ -7,6 +7,9 @@
     background-color: blueviolet;
     /* font-size: 3.5vw; */
     font-family: garamond;
+    border-style: solid;
+    border-color: teal;
+    border-width: 8px;
 }
 
 .nadpisimage {
@@ -19,6 +22,9 @@
     flex-wrap: wrap;
     background-color: limegreen;
     font-family: courier bold;
+    border-style: solid;
+    border-color: gold;
+    border-width: 8px;
 }
 
 .footer {
