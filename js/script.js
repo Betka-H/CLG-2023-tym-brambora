@@ -1,6 +1,12 @@
-console.log("helo worl");
-let pokus = "your mom hehehe";
-console.log(pokus);
-function myfunc(p1, p2){
-return p1*p2-2*p1;
+/* let ans=["yep","sure","mayb","8","absolutely not"];
+
+function ask8b(){
+    let que=prompt("ask the magic 8 ball");
 }
+
+if que={
+    let randomin=
+    Math.floor(Math.random()*ans.length);
+}
+
+alert("magic 8 says:"+ans[randomin]); */
