@@ -59,10 +59,12 @@ body {
     border-color:#4c4734;
     border-style: solid;
     margin:8px;
+    height:100%;
 }
 
 .profilzvire{
     display: flex;
+    flex-wrap: wrap;
     max-width:100%;
     height:auto;
     border-width: 4px;
@@ -75,12 +77,4 @@ body {
     margin:32px;
     color:#4c4734;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-}
-
-.profilhovericon{
-    flex-wrap: wrap;
-}
-
-.profilhovericon img{
-    height:64px;
 }
