@@ -12,7 +12,7 @@ Adéla- Erdelteriér, fena, věk deset let.
 je stará, ráda spí na gouči. Je mazlivá, nerada běhá. Hledá starou paní o kterou by se starala.
 
 Lilian- Hovawart, věk osm let.
-je už starší, ale má sílu na rozdávání. Je velice aktivní. Má rát pamlsky.
+.je už starší, ale má sílu na rozdávání. Je velice aktivní. Má rát pamlsky
 
 Tlapka- Jakutská lajka, fena, věk tři roky.
 ráda běhá, je ještě štěně. Miluje cvičení a prolézačky.
@@ -21,7 +21,7 @@ Snížek- Jack Russell teriér, věk šest let.
 je velice běhavej, rád se koupe a má radši zimu než teplo.
 
 Kráska- Labradorský retrívr, fena, věk tři roky.
-Má svího plyšáka a bez něho je velice smutná. Ráda se mazlí a chodí ráda na vodítku.
+.Má svího plyšáka a bez něho je velice smutná. Ráda se mazlí a chodí ráda na vodítku
 
 
 Manky- Perská kočka, věk sedm let.
@@ -175,7 +175,7 @@ Na Zálesí 1473 Na Zálesí 1473, 290 01 Poděbrady= záchraná stanice pro zvi
 
 
 
-
+ 
  
 
 
