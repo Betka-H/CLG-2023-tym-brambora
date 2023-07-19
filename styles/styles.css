@@ -82,6 +82,8 @@ body {
 }
 
 .profilzvire{
+    margin-top:32px;
+    margin-bottom:32px;
     justify-content: space-around;
     flex-wrap:wrap;
     display: flex;
@@ -123,3 +125,9 @@ color:#916e4b;
 a:active {
     color:maroon;
 }
+/* 
+.profilyzvirat{
+    flex-direction: column;
+    display:flex;
+    justify-content:
+} */
