@@ -4,13 +4,14 @@
     padding: 32px;
     align-items: center;
     flex-wrap: wrap;
-    background-color: blueviolet;
+    background-color: #c8be69;
+    border-color: #916e4b;
     /* font-size: 3.5vw; */
     font-family: garamond;
     border-style: solid;
-    border-color: teal;
     border-width: 8px;
     font-size: larger;
+    color:#4c4734;
 }
 
 .nadpisimage {
@@ -23,10 +24,10 @@
     justify-content: space-evenly;
     padding: 32px;
     flex-wrap: wrap;
-    background-color: limegreen;
-    font-family: courier bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     border-style: solid;
-    border-color: gold;
+    background-color: #deded1;
+    border-color: rgb(192, 176, 140);
     border-width: 8px;
     font-size:large;
 }
@@ -37,13 +38,17 @@
     /* padding-top: 32px; */
     align-items: center;
     flex-wrap: wrap;
-    background-color: magenta;
     border-style: solid;
-    border-color: brown;
+    background-color: #c8be69;
+    border-color: #916e4b;
     border-width: 8px;
     font-size:large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 .footernav {
     padding: 50px;
+}
+body{
+    background-color:#deded1 ;
 }
