@@ -54,9 +54,6 @@ body{
 }
 
 .profilzvire img {
-    max-width:100%;
-    height:auto;
-    width:250px;
     border-width: 4px;
     border-color:#4c4734;
     border-style: solid;
@@ -65,7 +62,10 @@ body{
 }
 
 .profilzvire{
+    max-width:100%;
+    height:auto;
     border-width: 4px;
     border-color:#4c4734;
     border-style: solid;
+    margin:32px;
 }
