@@ -1,4 +1,20 @@
 .nadpis {
     display: flex;
     justify-content: space-between;
+    padding: 32px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: blueviolet;
+    /* font-size: 3.5vw; */
+}
+
+.nadpisimage {
+    display: flex;
+    align-items: center;
+}
+
+.navigation {
+    padding: 32px;
+    flex-wrap: wrap;
+    background-color: limegreen;
 }
