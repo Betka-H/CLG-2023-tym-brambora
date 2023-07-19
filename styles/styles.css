@@ -69,3 +69,15 @@ body{
     border-style: solid;
     margin:32px;
 }
+a:link {
+    color:#4c4734;
+}
+a:visited{
+    color:#4c4734;
+}
+a:hover {
+color:#916e4b;
+}
+a:active {
+    color:#4c4734;
+}
