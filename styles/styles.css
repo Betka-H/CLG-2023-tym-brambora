@@ -54,6 +54,18 @@ body{
 }
 
 .profilzvire img {
-    width:250px;
+    max-width:100%;
     height:auto;
+    width:250px;
+    border-width: 4px;
+    border-color:#4c4734;
+    border-style: solid;
+    margin:8px;
+    margin-bottom:4px;
+}
+
+.profilzvire{
+    border-width: 4px;
+    border-color:#4c4734;
+    border-style: solid;
 }
