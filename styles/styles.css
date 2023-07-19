@@ -6,6 +6,7 @@
     flex-wrap: wrap;
     background-color: blueviolet;
     /* font-size: 3.5vw; */
+    font-family: garamond;
 }
 
 .nadpisimage {
@@ -17,4 +18,22 @@
     padding: 32px;
     flex-wrap: wrap;
     background-color: limegreen;
+    font-family: courier bold;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 32px;
+    padding-right: 32px;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: magenta;
+    border-style: solid;
+    border-color: brown;
+    border-width: 8px;
+}
+
+.footernav {
+    padding: 50px;
 }
