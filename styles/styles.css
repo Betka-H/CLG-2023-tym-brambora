@@ -67,7 +67,8 @@ body {
     background-color:#deded1 ;
     padding:5vw;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color:#4c4734
+    color:#4c4734;
+    text-align:justify;
 }
 
 /* .profilzvire img {
@@ -246,3 +247,8 @@ img{
 .adopceHeaders h1{
     margin-left:7.5vw;
 }
+
+/* .historiep{
+    margin-left:64px;
+    padding-right:64px;
+} */
