@@ -204,3 +204,7 @@ button:hover{
     display:flex;
 justify-content: space-between;
 }
+.stopy {
+    display:flex;
+    justify-content:space-between ;
+}
