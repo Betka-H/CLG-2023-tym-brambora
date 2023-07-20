@@ -244,6 +244,12 @@ img{
     
 }
 
+.nadpisimage img{
+    border-width: 0px;
+    width:15vw;
+    height:auto;
+}
+
 .adopceHeaders h1{
     margin-left:7.5vw;
 }
