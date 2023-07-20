@@ -281,3 +281,8 @@ img{
     text-align:justify;
     text-align:flex-start;
 }
+
+.pomoc img{
+    width:64vw;
+    height:auto;
+}
