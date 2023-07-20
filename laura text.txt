@@ -33,8 +33,14 @@ svátky zavřeno.
 
 <h2>Čert | Anatolský pastevecký | 7 let</h2>
        <p>Hledá domov je vycvičený, rád chodí na procházky a v životě by nikomu neublížil.
-         Bojí se koček.Našli jsme ho v prodaném bytě nejspíš ho majitelé nechtěli.</p>
+         Bojí se koček.Našli jsme ho v prodaném domě nejspíš ho majitelé nechtěli.</p>
 
+ <h2>Tlapka | Jakutská lajka |13 měsíců</h2>
+       <p>Ráda běhá, je ještě štěně. Miluje cvičení a prolézačky.Někdo jí přivázal ke stromu.
+       Přivázána byla 5 hodin, naštěstí jí nc nebylo když jsme jí našli.</p>
 
+<h2>Snížek | Jack Russell teriér | 6 let</h2>
+       <p>Je velice běhavej, rád se koupe a má radši zimu než teplo.Úplně nevíme odkud je, protože jen tak zničehonic k nám přiběhl.
+       nejspíš někomu utekl nebo ho někdo vypustil.</p>
 
 
