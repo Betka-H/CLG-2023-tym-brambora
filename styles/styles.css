@@ -12,6 +12,9 @@
     border-width: 8px;
     font-size: larger;
     color:#4c4734;
+
+    flex-direction: column;
+    justify-content: center;
 }
 
 .header{
