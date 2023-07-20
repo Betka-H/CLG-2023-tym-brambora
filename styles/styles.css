@@ -266,13 +266,18 @@ img{
     border-color:#4c4734;
     margin:32px;
 
-    width:50vw;
-    height:25vw;
+    width:64vw;
+    height:32vw;
 
+   
+}
+
+.mapcenter{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
     
     align-items: center;
     text-align:justify;
+    text-align:flex-start;
 }
