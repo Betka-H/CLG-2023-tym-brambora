@@ -173,6 +173,8 @@ button{
     background-color:#916e4b;
     color:#deded1;
     padding:8px;
+    padding-left:16px;
+    padding-right:16px;
     border-radius:16px;
     border-style:solid;
     border-width: 4px;
@@ -186,4 +188,15 @@ button:active {
 
 button:hover{
     border-color:#c8be69
+}
+
+.donatestuff{
+    
+    display: flex;
+    flex-wrap: wrap;/* 
+    flex-direction: column; *//* 
+    justify-content: center; */
+    justify-content: space-evenly;
+    
+    align-items: center;
 }
