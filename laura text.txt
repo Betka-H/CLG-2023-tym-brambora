@@ -29,3 +29,12 @@ Otevírací doba
 po-so 6:00-18:00 
 neděle 8:00-15:00
 svátky zavřeno.
+
+
+<h2>Čert | Anatolský pastevecký | 7 let</h2>
+       <p>Hledá domov je vycvičený, rád chodí na procházky a v životě by nikomu neublížil.
+         Bojí se koček.Našli jsme ho </p>
+
+
+
+
