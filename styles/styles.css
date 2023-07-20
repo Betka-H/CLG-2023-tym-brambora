@@ -200,3 +200,7 @@ button:hover{
     
     align-items: center;
 }
+.zverokruh {
+    display:flex;
+justify-content: space-between;
+}
