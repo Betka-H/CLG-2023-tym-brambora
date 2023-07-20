@@ -42,9 +42,32 @@ svátky zavřeno.
        <p>Je velice běhavej, rád se koupe a má radši zimu než teplo.Úplně nevíme odkud je, protože jen tak zničehonic k nám přiběhl.
        nejspíš někomu utekl nebo ho někdo vypustil.</p>
 
+<h2>Mecina | Bernardýn | 3 roky</h2>
+       <p>Je hodná, ráda si hraje skotačí. Je ještě trochu bázlivá, ale má ráda děti..Někdo jí přivázal ke stromu.
+       Přivázána byla 5 hodin, naštěstí jí nc nebylo když jsme jí našli.</p>
+
+<h2>Lilian | Hovawart | 8 let</h2>
+       <p>Je už starší, ale má sílu na rozdávání. Je velice aktivní. Má rád pamlsky.Lilian k nám přijel i s majiteli kteří ho dali do útulku,
+       protože ho už nechtěli.</p>
+
+h2>Kráska | Labradorský retrívr | 3 roky</h2>
+       <p>Má svého plyšáka a bez něho je velice smutná. Ráda se mazlí a chodí ráda na vodítku.Kráska byla týraná.
+       Když jsme se to dozvěděli tak jsme jí zachránili, takže by hledala velice hodné majitele.</p>
+
+       <h2>Ondra | Andulka | 3 roky</h2>
+       <p>Je velice chytrý řekne si o pamlsek.Ondra se u nás narodil ale když mu byl rok umřela mu máma.</p>
 
        <h2>Andrea | Andulka | 3 roky</h2>
        <p>Hodná, ale trochu hlučná.Andrea zřejmě někomu ulítla proto nevíme odkud je.</p>
 
        <h2>Smraďoch | Australská mist |5 let</h2>
-       <p>Vystačí si sám, ale je hodně smutnej, že je sám.</p>
+       <p>Vystačí si sám, ale je hodně smutnej, že je sám.Smraďoch se k nám dostal ze Slovenska jelikož ho nikdo nechtěl
+       vzali jsme si ho my.</p>
+
+       <h2>Král | Egypstká mau | 2 roky</h2>
+       <h4><p>Krásně voní a rád se voní.Krále jsme našli v kanále proto ocení voňavé prostředí.</p></h4>
+
+        <h2>Manky | Perská kočka | 4 roky</h2>
+       <h4><p>Ráda se mazlí, hledá hodnou a ušlechtilou pani či pána.jeden pán jí našel v popelnici ale nemohl si jí nechat jelikož má alergii</p></h4>
+
+       

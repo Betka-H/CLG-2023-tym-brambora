@@ -10,3 +10,11 @@ if que={
 }
 
 alert("magic 8 says:"+ans[randomin]); */
+
+let donationTotal = 0;
+function donate(){
+    donationTotal = donationTotal + 1;
+    document.getElementById("donateDisp").innerHTML = donationTotal;
+    /* return donationTotal; */
+    
+}
