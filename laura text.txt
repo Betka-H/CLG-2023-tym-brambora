@@ -70,4 +70,6 @@ h2>Kráska | Labradorský retrívr | 3 roky</h2>
         <h2>Manky | Perská kočka | 4 roky</h2>
        <h4><p>Ráda se mazlí, hledá hodnou a ušlechtilou pani či pána.jeden pán jí našel v popelnici ale nemohl si jí nechat jelikož má alergii</p></h4>
 
-       
+        <h2>Mourek | Německý rex | 5 let</h2>
+       <h4><p>Je velice přítulný, nerat chodí ven, spíš se válí po gouči.Mourka jsme našli ležet na ulici.Měl v sobě hodně nemocí.
+       ale teď už je zdravej.</p></h4>
