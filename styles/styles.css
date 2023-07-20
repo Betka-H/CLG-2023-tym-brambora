@@ -228,3 +228,7 @@ justify-content: space-between;
     border-style: solid;
     margin:16px;
 }
+.stopy {
+    display:flex;
+    justify-content:space-between ;
+}
